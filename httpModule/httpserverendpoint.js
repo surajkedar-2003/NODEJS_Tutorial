@@ -11,7 +11,7 @@ const server = http.createServer(function(req, res){
         res.writeHead(200, {'ContentType' : 'text/html'});
         res.write('this is home page');
         res.end();
-    }
+    } 
     else if(req.url == '/about'){
         res.writeHead(200, {'ContentType' : 'text/html'});
         res.write('this is about page');

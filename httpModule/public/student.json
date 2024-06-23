@@ -1,0 +1,32 @@
+[
+    {
+        "name": "rohit",
+        "city" : "pune",
+        "project" : "angular"
+    },
+    {
+        "name": "ashish",
+        "city" : "pune",
+        "project" : "angular"
+    },
+    {
+        "name": "amit",
+        "city" : "mumbai",
+        "project" : "react"
+    },
+    {
+        "name": "suraj",
+        "city" : "amravati",
+        "project" : "full stack"
+    },
+    {
+        "name": "abhishek",
+        "city" : "nagpur",
+        "project" : "javascript"
+    },
+    {
+        "name": "sahil",
+        "city" : "bhopal",
+        "project" : "angular"
+    }
+]
